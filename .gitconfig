@@ -1,0 +1,13 @@
+[user]
+	name = banlei
+	email = banlei@sunniwell.net
+[color]
+	ui = auto
+[pack]
+	deltaCacheSize = 1024m
+	packSizeLimit = 1024m
+	windowMemory = 1024m
+[core]
+	editor = vim
+	packedGitLimit = 1024m
+	packedGitWindowSize = 1024m

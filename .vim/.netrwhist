@@ -1,11 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/sunhualong/My_works/svn/project8000_soluctions/trunk2/src/swnetwork'
-let g:netrw_dirhist_2='/home/sunhualong/My_works/svn/project8000_soluctions/trunk2/src/swnetmanager'
-let g:netrw_dirhist_3='/home/sunhualong/My_works/svn/project8000_soluctions/trunk2/ranger'
-let g:netrw_dirhist_4='/home/sunhualong/My_works/git/alcad_sw/resource/base-en-hd/alcad_setting'
-let g:netrw_dirhist_5='/home/sunhualong/My_works/svn/project8000_soluctions/trunk2/src/productest'
-let g:netrw_dirhist_6='/home/sunhualong/My_works/svn/project8000_soluctions/trunk2/confpage/setting_beijing-guodian'
-let g:netrw_dirhist_7='/home/sunhualong/My_works/svn/project8000_soluctions/trunk2/swapi/src/common/swflash'
-let g:netrw_dirhist_8='/home/sunhualong/My_works/svn/projectx000-ralink/cmcc_7620n/RT288x_SDK/source/linux-2.6.36.x/mm'
-let g:netrw_dirhist_9='/disk/banlei/.vim'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/disk/banlei/work/8MD0A-EMMC-DVBC-YAOLAI/platform/release'
+let g:netrw_dirhist_2='/disk/banlei/work/8MD0A-EMMC-DVBC-LEZHI/platform/on-project/pub/system/etc'
+let g:netrw_dirhist_3='/disk/banlei/work/8Q40E-EMMC-JIUHUAXIN/platform/on-project/build'
+let g:netrw_dirhist_4='/disk/banlei/work/8Q40E-EMMC-JIUHUAXIN/platform/on-project'
